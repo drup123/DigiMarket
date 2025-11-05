@@ -125,9 +125,17 @@ You will need the following software installed on your machine:
 
 ## 📸 Screenshots
 
+<img width="1919" height="869" alt="Screenshot 2025-11-05 145240" src="https://github.com/user-attachments/assets/0b7dbc97-94d1-42ff-a839-799fd8136d2e" />
+<img width="1919" height="869" alt="Screenshot 2025-11-05 145320" src="https://github.com/user-attachments/assets/ab835e08-eb71-4f40-a5f6-cc12716770b5" />
+<img width="1919" height="867" alt="Screenshot 2025-11-05 145516" src="https://github.com/user-attachments/assets/3be52156-8357-48c9-9668-f41734e0e64c" />
+<img width="1918" height="864" alt="Screenshot 2025-11-05 145537" src="https://github.com/user-attachments/assets/babe3455-fff9-476a-a1e8-d72e61f3085d" />
+<img width="1917" height="865" alt="Screenshot 2025-11-05 145706" src="https://github.com/user-attachments/assets/846bb8fd-1e7a-4b2b-a658-ece2baced585" />
+<img width="1917" height="873" alt="Screenshot 2025-11-05 145803" src="https://github.com/user-attachments/assets/2ee5db2d-d7d6-45b3-a6b8-90178a1b93b4" />
 <img width="1919" height="864" alt="Screenshot 2025-11-05 145826" src="https://github.com/user-attachments/assets/435caeac-7488-4be3-8b98-fcd5080551df" />
 
 
-## 📄 License
+## 👤 Connect with Me
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+* **[Drup Patil]**
+    * LinkedIn: [www.linkedin.com/in/drup-patil-3609b5296](www.linkedin.com/in/drup-patil-3609b5296)
+    * GitHub: [https://github.com/drup123](https://github.com/drup123)
