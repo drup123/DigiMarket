@@ -52,11 +52,11 @@ You will need the following software installed on your machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/DigiMarket.git](https://github.com/your-username/DigiMarket.git)
+    git clone [https://github.com/drup123/DigiMarket.git](https://github.com/drup123/DigiMarket.git)
     ```
 
 2.  **Set up the Database:**
-    * Open your MySQL server/workbench.
+    * Open your Xampp/workbench.
     * Create a new database (e.g., `digimarket_db`).
     * Run the following SQL scripts to create the necessary tables:
 
@@ -108,7 +108,7 @@ You will need the following software installed on your machine:
 
 3.  **Configure JDBC Connection:**
     * Open the project in your IDE.
-    * Find the Java file that handles the database connection (it might be a `DBUtil.java` or `ConnectionProvider.java` file).
+    * Find the Java file that handles the database connection (`DBconnection.java` file).
     * Update the JDBC URL, username, and password to match your MySQL database setup.
     `String url = "jdbc:mysql://localhost:3306/digimarket_db";`
     `String username = "your_mysql_username";`
@@ -121,15 +121,12 @@ You will need the following software installed on your machine:
     * The application will build and deploy. It should automatically open in your browser.
 
 5.  **Access the Portal:**
-    You can access the application at `http://localhost:8080/YourProjectName/` (the project name might vary based on your setup).
+    You can access the application at `http://localhost:8080/DigiMarket/`.
 
 ## 📸 Screenshots
 
-*(Optional: Add screenshots of your project here)*
+<img width="1919" height="864" alt="Screenshot 2025-11-05 145826" src="https://github.com/user-attachments/assets/435caeac-7488-4be3-8b98-fcd5080551df" />
 
-****
-****
-****
 
 ## 📄 License
 
