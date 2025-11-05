@@ -137,5 +137,5 @@ You will need the following software installed on your machine:
 ## 👤 Connect with Me
 
 * **[Drup Patil]**
-    * LinkedIn: [www.linkedin.com/in/drup-patil-3609b5296](www.linkedin.com/in/drup-patil-3609b5296)
+    * LinkedIn: [[www.linkedin.com/in/drup-patil-3609b5296](https://www.linkedin.com/in/drup-patil-3609b5296/)]
     * GitHub: [https://github.com/drup123](https://github.com/drup123)
